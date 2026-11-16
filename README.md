@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Restream
+
+**Embryo Restream** is Embryo-Zero's fork of [datarhei Restreamer](https://github.com/datarhei/restreamer), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <h1 align="center">Restreamer</h1>
 <h3 align="center">A really nice and free alternative for handling live streams.</h3>
 <p align="center">
